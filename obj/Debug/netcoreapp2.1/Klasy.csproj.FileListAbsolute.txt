@@ -1,0 +1,11 @@
+C:\Users\Dawid\Desktop\CSharp\Klasy\bin\Debug\netcoreapp2.1\Klasy.deps.json
+C:\Users\Dawid\Desktop\CSharp\Klasy\bin\Debug\netcoreapp2.1\Klasy.runtimeconfig.json
+C:\Users\Dawid\Desktop\CSharp\Klasy\bin\Debug\netcoreapp2.1\Klasy.runtimeconfig.dev.json
+C:\Users\Dawid\Desktop\CSharp\Klasy\bin\Debug\netcoreapp2.1\Klasy.dll
+C:\Users\Dawid\Desktop\CSharp\Klasy\bin\Debug\netcoreapp2.1\Klasy.pdb
+C:\Users\Dawid\Desktop\CSharp\Klasy\obj\Debug\netcoreapp2.1\Klasy.csprojAssemblyReference.cache
+C:\Users\Dawid\Desktop\CSharp\Klasy\obj\Debug\netcoreapp2.1\Klasy.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Desktop\CSharp\Klasy\obj\Debug\netcoreapp2.1\Klasy.AssemblyInfoInputs.cache
+C:\Users\Dawid\Desktop\CSharp\Klasy\obj\Debug\netcoreapp2.1\Klasy.AssemblyInfo.cs
+C:\Users\Dawid\Desktop\CSharp\Klasy\obj\Debug\netcoreapp2.1\Klasy.dll
+C:\Users\Dawid\Desktop\CSharp\Klasy\obj\Debug\netcoreapp2.1\Klasy.pdb

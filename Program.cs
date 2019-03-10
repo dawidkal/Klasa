@@ -24,6 +24,6 @@ class KlasaGlowna
         obiekt.WczytajNapis();
         obiekt.Napisz();
        // System.Console.ReadLine();
-    }// zmiana na githuba
+    }// zmiana na githuba 10.03
     }
 }

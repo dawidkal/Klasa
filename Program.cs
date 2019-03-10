@@ -24,6 +24,6 @@ class KlasaGlowna
         obiekt.WczytajNapis();
         obiekt.Napisz();
        // System.Console.ReadLine();
-    }// zmiana na github2 10.03
+    }// zmiana na github3 10.03
     }
 }
